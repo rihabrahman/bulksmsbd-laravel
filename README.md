@@ -111,9 +111,13 @@ Example response:
 
 ---
 
-## 📜 License
+### 🧑‍💻 Developed & Maintained By
+**Rihab Rahman**  
+🌐 [https://rihabrahman.com](https://rihabrahman.com)  
+📧 Contact: cse.rihab@gmail.com
 
-MIT License © 2025 [Rihab Rahman](mailto:cse.rihab@gmail.com)
+If you find this package helpful, consider giving it a ⭐ on [GitHub](https://github.com/rihabrahman/bulksmsbd-laravel)!
+
 
 ---
 
